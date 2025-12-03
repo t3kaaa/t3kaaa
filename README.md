@@ -17,10 +17,10 @@
   </a>
 </p>
 
-
+<hr>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,django,github,js,kali,pycharm,py,windows" />
+    <img src="https://skillicons.dev/icons?i=c,js,py,windows,kali" />
   </a>
 </p>
