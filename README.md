@@ -1,4 +1,7 @@
-
+<div align="center">
+    <picture><img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=2e5c03&text=Hi,%20Boddy🤙&animation=fadeIn&descAlign=56&descAlignY=64" align="center" style="width: 100%" /><picture>
+</div>
+---
 <div align="center">
     <picture><img src="https://i.pinimg.com/originals/b1/5b/d5/b15bd596014d9d9310e59b07b85da550.gif" align="center" style="width: 100%" /><picture>
 </div>
