@@ -1,3 +1,6 @@
+I'm t3kaa, and 2nd-year Computer Science student , aslo  Backend Developer
+
+
 ### 📬 Connect with Me 
 <p align="center">
   <a href="temurozodov5@gmail.com">
@@ -27,8 +30,7 @@
 </p>
 
 ---
-<hr>
-<br>
+
 
 ### 🧠 Skills
 <p align="center">
