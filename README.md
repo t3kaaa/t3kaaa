@@ -17,6 +17,16 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/t3kaaa">
+    <img src="https://komarev.com/ghpvc/?username=Saboo24&color=3a8296&label=Profile%20Views" />
+  </a>
+  <a href="https://github.com/t3kaaa">
+    <img src="https://img.shields.io/github/followers/Saboo24?label=GitHub%20Followers&color=3a8296&style=flat" />
+  </a>
+</p>
+
+---
 <hr>
 <br>
 
@@ -27,12 +37,12 @@
   </a>
 </p>
 <hr>
-
+---
 
 ### ⚙️ Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,linux&theme=light" />
+    <img src="https://skillicons.dev/icons?i=vscode,pycharm,git,github,linux&theme=light" />
   </a>
 </p>
 
