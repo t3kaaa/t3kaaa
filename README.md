@@ -1,5 +1,5 @@
 <div align="center">
-    ###  Hi,Buddy 🤙
+      ### hi,Buddy
 </div>
         
 <hr>
@@ -18,7 +18,7 @@
   </a>
 </p>
 <hr>
----
+
 
 
 ### ⚙️ Tools
