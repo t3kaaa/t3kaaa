@@ -1,5 +1,5 @@
 <div align="center">
-    <picture><img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=2e5c03&text=Hi,%20Buddy🤙&animation=fadeIn&descAlign=56&descAlignY=64" align="center" style="width: 100%" /><picture>
+    ### Hi, Buddy 🤙
 </div>
         
 <hr>
