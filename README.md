@@ -1,6 +1,5 @@
-<div align="center">
-     ###<b>Hi,Buddy 🤙</b>
-</div>
+<h1 align="center"> HI, BUDDY 🤙 </h1>
+
         
 <hr>
 
